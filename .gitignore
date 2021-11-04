@@ -2,6 +2,10 @@
 logs
 *.log
 
+# pbf
+pbf
+*.pbf
+
 # Runtime data
 pids
 *.pid
@@ -50,3 +54,5 @@ npm-debug.log.*
 *.scss.d.ts
 
 /app/temp/
+app/api/countries/6/36/37.pbf
+app/api/countries/6/30/24.pbf
